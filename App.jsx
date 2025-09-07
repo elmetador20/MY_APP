@@ -105,6 +105,7 @@
 // //in react native we dont have border-radius we have to use borderRadius
 // //is onclick and onpress same event in react native? onclick is for web and onpress is for react native but both are used for handle event like button click etc  
 
+// stack navigator and tab navigator are used for navigation in react native in stack navigator we can navigate to different scrrens and in tab navigator we can navigate to differnet tabs in the buttoms of the screeen
 import { StyleSheet, TextInput, Text, View, Button } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import React, { useState } from 'react';
